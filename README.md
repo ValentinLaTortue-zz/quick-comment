@@ -2,7 +2,7 @@
 
 A package for Atom to quickly add comments
 
-![quick-comment-video](./quick-comment.gif)
+![quick-comment-video](https://raw.githubusercontent.com/ValentinLaTortue/quick-comment/master/quick-comment.gif)
 
 ## Install
 
