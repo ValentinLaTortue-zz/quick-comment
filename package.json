@@ -1,17 +1,23 @@
 {
   "name": "quick-comment",
   "main": "./lib/quick-comment",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A simple shortcut to comment your code or text",
-  "keywords": [ "fast", "quick", "comment"],
+  "keywords": [
+    "fast",
+    "quick",
+    "comment"
+  ],
   "activationCommands": {
-    "atom-workspace": ["quick-comment:toggleComment", "quick-comment:addBrackets"]
+    "atom-workspace": [
+      "quick-comment:toggleComment",
+      "quick-comment:addBrackets"
+    ]
   },
   "repository": "https://github.com/ValentinLaTortue/quick-comment",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
