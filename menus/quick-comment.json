@@ -1,0 +1,34 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle Comment",
+        "command": "quick-comment:toggleComment"
+      },
+      {
+        "label": "Add Brackets",
+        "command": "quick-comment:addBrackets"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Quick Comment",
+          "submenu": [
+            {
+              "label": "Toggle Comment",
+              "command": "quick-comment:toggleComment"
+            },
+            {
+              "label": "Add Brackets",
+              "command": "quick-comment:addBrackets"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
