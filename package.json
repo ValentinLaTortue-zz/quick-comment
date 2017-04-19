@@ -1,7 +1,7 @@
 {
   "name": "quick-comment",
   "main": "./lib/quick-comment",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A simple shortcut to comment your code or text",
   "keywords": [
     "fast",
