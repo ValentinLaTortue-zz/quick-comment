@@ -17,3 +17,8 @@ Or  atom package manager: Settings ➔ Packages ➔ Search for `quick-comment`
 - Activate with <kbd>Alt</kbd>-<kbd>Shift</kbd>-<kbd>c</kbd> or through the command panel with `Quick Comment:Toggle Comment`.
 
 - The package can also add brackets with <kbd>Alt</kbd>-<kbd>Shift</kbd>-<kbd>[</kbd> or with the command `Quick Comment:Add Brackets`
+
+### Help me to improve the package
+
+I don't know all the languages, so if there is one that I forgot, let me now and I'll fix as soon as possible.
+Thank you for downloading the package!
