@@ -1,7 +1,11 @@
 {
   "name": "quick-comment",
   "main": "./lib/quick-comment",
+<<<<<<< HEAD
   "version": "0.1.4",
+=======
+  "version": "0.1.0",
+>>>>>>> parent of d9d422b... Prepare 0.1.1 release
   "description": "A simple shortcut to comment your code or text",
   "keywords": [
     "fast",
