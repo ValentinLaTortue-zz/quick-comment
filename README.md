@@ -12,6 +12,22 @@ apm install quick-comment
 ```
 Or  atom package manager: Settings ➔ Packages ➔ Search for `quick-comment`
 
+## Supported Languages
+- C
+- C++
+- C#
+- Objective C
+- Python
+- HTML
+- less
+- CSS
+- SQL
+- Java
+- JavaScript
+- TypeScript
+- Git Markdown
+
+And almost any languages which use /* */ for multiline comments :)
 ## Usage
 
 - Select the text to coment and activate with <kbd>Alt</kbd>-<kbd>Shift</kbd>-<kbd>c</kbd> or through the command panel with `Quick Comment:Toggle Comment`. If no text is selected, it will comment the line*.
